@@ -1,0 +1,4 @@
+sample_id,patient_id,tissue_type,tumor_type,batch,group,include_in_analysis,notes
+S1,P001,tumor,adenocarcinoma,batch1,T,TRUE,primary
+S2,P001,normal,adenocarcinoma,batch1,N,TRUE,adjacent normal
+S3,P002,tumor,adenocarcinoma,batch1,T,TRUE,primary

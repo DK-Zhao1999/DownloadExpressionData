@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+data/
+processed/
+.test/
+.DS_Store

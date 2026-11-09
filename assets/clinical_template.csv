@@ -1,0 +1,3 @@
+patient_id,sample_id,age_years,sex,histology,stage,grade,tissue_type,tumor_purity,treatment,response,batch,OS_time_months,OS_event,PFS_time_months,PFS_event,DFS_time_months,DFS_event,DSS_time_months,DSS_event,notes
+P001,S1,58,female,adenocarcinoma,IIA,G2,tumor,0.8,surgery,responder,batch1,36.5,1,30.0,1,30.0,1,36.5,1,example only
+P002,S2,63,male,adenocarcinoma,IIIB,G3,tumor,0.6,surgery+chemo,non-responder,batch1,18.0,0,12.0,1,,,,,example only
